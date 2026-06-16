@@ -4,7 +4,7 @@
 
 **数据驱动的调查项目**，系统梳理 B站上围绕电影《澎湖海战》的 UP 主视频讨论，通过关键词搜索、语义过滤、AI 立场分类与交叉验证，呈现舆论场的真实样貌。
 
-项目网址：https://knoxc1.github.io/penghu-bilibili-dashboard/
+报告网址：https://knoxc1.github.io/penghu-bilibili-dashboard/
 
 ---
 
